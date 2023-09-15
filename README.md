@@ -5,8 +5,6 @@ Technologies used: React
 
 
 Introduction:
-
-
       1.   Use a real API to search for movies as we type
       
       2.   Add movies to and remove them from our favourites
